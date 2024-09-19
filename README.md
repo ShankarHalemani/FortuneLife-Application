@@ -163,4 +163,4 @@ FortuneLife-Application-master/
   <li><code>npm run build</code>: Builds the app for production.</li>
 </ul>
 
-<img src="fortuneLife.png" alt="FortuneLife Database Design">
+<img src="fotuneLife.png" alt="FortuneLife Database Design">
